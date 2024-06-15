@@ -1,0 +1,15 @@
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\bin\Debug\net8.0\Dio Hero XP Challenge.exe
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\bin\Debug\net8.0\Dio Hero XP Challenge.deps.json
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\bin\Debug\net8.0\Dio Hero XP Challenge.runtimeconfig.json
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\bin\Debug\net8.0\Dio Hero XP Challenge.dll
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\bin\Debug\net8.0\Dio Hero XP Challenge.pdb
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.AssemblyInfoInputs.cache
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.AssemblyInfo.cs
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.csproj.CoreCompileInputs.cache
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.sourcelink.json
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.dll
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\refint\Dio Hero XP Challenge.dll
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.pdb
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\Dio Hero XP Challenge.genruntimeconfig.cache
+C:\Users\lcaca\OneDrive\Documentos\GitHub\Dio Hero XP Challenge\Dio-Hero-XP-Challenge\obj\Debug\net8.0\ref\Dio Hero XP Challenge.dll
